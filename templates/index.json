@@ -86,8 +86,7 @@
         "button_gkmxCC"
       ],
       "custom_css": [
-        ".grid {height: 70vh;}",
-        ".grid .button {background-color: black;}"
+        "@media (min-width: 1025px) {.grid {height: 70vh; }}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/pandasleeping.gif",
@@ -103,18 +102,6 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "custom_liquid_YEWA8z": {
-      "type": "custom-liquid",
-      "custom_css": [
-        "{height: 200px;}"
-      ],
-      "settings": {
-        "custom_liquid": "",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "collage_6JKCta": {
@@ -245,7 +232,6 @@
   "order": [
     "image_banner",
     "image_with_text_6TckrE",
-    "custom_liquid_YEWA8z",
     "collage_6JKCta",
     "collage_agH7Ye",
     "featured_collection",
