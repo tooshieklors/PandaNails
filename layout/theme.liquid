@@ -358,21 +358,13 @@
 
     {%- if template.name == "index" -%}
       <style>
-        @media (min-width:1025px) {
-            .section-header.shopify-section-group-header-group.scrolled-past-header sticky-header.header-wrapper {
-                background: white;
-                height: 80px;
-                width: 100%;
-                position: fixed !important;
-            }
-      
-            .section-header.shopify-section-group-header-group sticky-header.header-wrapper {
-              background: none;
-              height: 80px;
-              width: 100%;
-              position: fixed !important;
-            }
-        }
+          .section-header.shopify-section-group-header-group.scrolled-past-header sticky-header.header-wrapper {
+              background: white;
+          }
+    
+          .section-header.shopify-section-group-header-group sticky-header.header-wrapper {
+            background: none;
+          }
       </style>
     {%- endif -%}
 
