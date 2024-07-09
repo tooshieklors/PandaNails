@@ -355,5 +355,11 @@
     {%- if settings.predictive_search_enabled -%}
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
+
+    <style>
+      .section-header.shopify-section-group-header-group.scrolled-past-header sticky-header.header-wrapper {
+          background: #000;
+      }
+    </style>
   </body>
 </html>
