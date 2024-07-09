@@ -70,14 +70,14 @@
         "heading_RNdU3B": {
           "type": "heading",
           "settings": {
-            "heading": "When was the last time you relaxed?",
+            "heading": "When did you last relax?",
             "heading_size": "h1"
           }
         },
         "text_zCyciQ": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "",
             "text_style": "body"
           }
         },
@@ -96,7 +96,7 @@
         "button_gkmxCC"
       ],
       "custom_css": [
-
+        ".grid{height: 50vh;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Copy_of_panda_nails.gif",
