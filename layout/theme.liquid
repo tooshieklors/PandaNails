@@ -356,21 +356,24 @@
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
 
-    <style>
-      .section-header.shopify-section-group-header-group.scrolled-past-header sticky-header.header-wrapper {
-          background: white;
-          height: 80px;
+    {%- if template.name == "index" -%} 
+      <style>
+        .section-header.shopify-section-group-header-group.scrolled-past-header sticky-header.header-wrapper {
+            background: white;
+            height: 80px;
+            width: 100%;
+            position: fixed;
+            
+        }
+  
+        .section-header.shopify-section-group-header-group sticky-header.header-wrapper {
+          position:fixed;
+          background: none;
+          height: 0px;
           width: 100%;
-          position: fixed;
-          
-      }
+        }
+      </style>
+    {%- endif -%}
 
-      .section-header.shopify-section-group-header-group sticky-header.header-wrapper {
-        position:fixed;
-        background: none;
-        height: 0px;
-        width: 100%;
-      }
-    </style>
   </body>
 </html>
