@@ -63,6 +63,7 @@
     },
     "custom_liquid_njMfBJ": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "",
         "color_scheme": "",
