@@ -96,7 +96,7 @@
         "button_gkmxCC"
       ],
       "custom_css": [
-        ".grid {height: 50vh;}"
+        ".grid {height: 70vh;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/pandasleeping.gif",
