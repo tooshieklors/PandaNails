@@ -70,21 +70,21 @@
         "heading_RNdU3B": {
           "type": "heading",
           "settings": {
-            "heading": "When did you last relax?",
+            "heading": "When did you last pamper yourself with a manicure?",
             "heading_size": "h1"
           }
         },
         "text_zCyciQ": {
           "type": "text",
           "settings": {
-            "text": "",
+            "text": "<p>Research indicates that manicures can reduce stress levels, leaving you feeling happy and satisfied. <\/p><p>Immerse yourself in the luxurious experience of a manicure, where stress melts away and happiness takes its place.<\/p><p><\/p><p><\/p>",
             "text_style": "body"
           }
         },
         "button_gkmxCC": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Browse Services",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -96,7 +96,8 @@
         "button_gkmxCC"
       ],
       "custom_css": [
-        ".grid {height: 70vh;}"
+        ".grid {height: 70vh;}",
+        ".grid .button {background-color:black;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/pandasleeping.gif",
