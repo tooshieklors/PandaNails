@@ -38,7 +38,7 @@
         "button"
       ],
       "custom_css": [
-        ".banner {margin-top: -105px;}"
+        ".banner {margin-top: -105px; height: 1000px;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/SalonBannerBG_736a27e1-102f-4875-a45b-6f91fc911159.gif",
