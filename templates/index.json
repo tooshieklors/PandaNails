@@ -84,7 +84,7 @@
         "button_gkmxCC": {
           "type": "button",
           "settings": {
-            "button_label": "Browse Services",
+            "button_label": "Our Services",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -97,7 +97,7 @@
       ],
       "custom_css": [
         ".grid {height: 70vh;}",
-        ".grid .button {background-color:black;}"
+        ".grid .button {background-color: black;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/pandasleeping.gif",
