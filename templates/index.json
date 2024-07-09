@@ -96,10 +96,10 @@
         "button_gkmxCC"
       ],
       "custom_css": [
-        ".grid{height: 50vh;}"
+        ".grid {height: 50vh;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Copy_of_panda_nails.gif",
+        "image": "shopify:\/\/shop_images\/pandasleeping.gif",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
