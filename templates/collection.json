@@ -9,15 +9,6 @@
 */
 {
   "sections": {
-    "custom_liquid_UkgWjB": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "banner": {
       "type": "main-collection-banner",
       "custom_css": [
@@ -51,7 +42,6 @@
     }
   },
   "order": [
-    "custom_liquid_UkgWjB",
     "banner",
     "product-grid"
   ]
