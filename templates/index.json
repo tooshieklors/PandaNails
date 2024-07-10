@@ -104,30 +104,98 @@
         "padding_bottom": 36
       }
     },
+    "custom_liquid_eX7fkB": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_q6dJ48": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Tn8XPt": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "text_pGw4yt": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_BUtqik": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Tn8XPt",
+        "text_pGw4yt",
+        "button_BUtqik"
+      ],
+      "custom_css": [
+        "@media (min-width: 1025px) {.grid {height: 70vh; }}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_panda_nails-2.gif",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "custom_liquid_tEdcTH": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "image_banner_t77ykj": {
       "type": "image-banner",
       "blocks": {
         "heading_p6MTCq": {
           "type": "heading",
           "settings": {
-            "heading": "Don't have time for a manicure? Check out our press-on nails.",
+            "heading": "Don't have time for a manicure?",
             "heading_size": "h1"
           }
         },
         "text_A4it6p": {
           "type": "text",
           "settings": {
-            "text": "Save time without sacrificing style with our convenient press on nails. Enjoy a flawless manicure in minutes!",
+            "text": "Save time without sacrificing style with our convenient <em><strong>press-on nails<\/strong><\/em>. Enjoy a flawless manicure in minutes!",
             "text_style": "body"
           }
         },
         "buttons_e9UkEc": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
+            "button_label_1": "Our Nails",
             "button_link_1": "",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -137,6 +205,9 @@
         "heading_p6MTCq",
         "text_A4it6p",
         "buttons_e9UkEc"
+      ],
+      "custom_css": [
+        ".banner {height: 110vh;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Copy_of_panda_nails-1.gif",
@@ -148,8 +219,55 @@
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "custom_liquid_VeQ4V3": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "collage_XEhfqA": {
+      "type": "collage",
+      "blocks": {
+        "image_wGqwgJ": {
+          "type": "image",
+          "settings": {
+          }
+        },
+        "product_zmJJza": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
+        },
+        "collection_gdUcJe": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_wGqwgJ",
+        "product_zmJJza",
+        "collection_gdUcJe"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "collage_6JKCta": {
@@ -179,6 +297,7 @@
         "image_RJPQ7k",
         "image_HzaBMz"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -220,6 +339,7 @@
         "image_MG7CrP",
         "image_Jfi7dV"
       ],
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -280,7 +400,12 @@
   "order": [
     "image_banner",
     "image_with_text_6TckrE",
+    "custom_liquid_eX7fkB",
+    "image_with_text_q6dJ48",
+    "custom_liquid_tEdcTH",
     "image_banner_t77ykj",
+    "custom_liquid_VeQ4V3",
+    "collage_XEhfqA",
     "collage_6JKCta",
     "collage_agH7Ye",
     "featured_collection",
