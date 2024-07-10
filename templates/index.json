@@ -119,14 +119,14 @@
         "heading_Tn8XPt": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Don't have time for a manicure? Get our press-on nails.",
             "heading_size": "h1"
           }
         },
         "text_pGw4yt": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Save time without sacrificing style with our convenient <em><strong>press-on nails<\/strong><\/em>. Enjoy a flawless manicure in minutes!<\/p>",
             "text_style": "body"
           }
         },
