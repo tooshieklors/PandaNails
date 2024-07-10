@@ -207,7 +207,7 @@
         "buttons_e9UkEc"
       ],
       "custom_css": [
-        ".banner {height: 110vh;}"
+        ".banner {height: 100vh;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Copy_of_panda_nails-1.gif",
@@ -259,6 +259,7 @@
         "product_zmJJza",
         "collection_gdUcJe"
       ],
+      "disabled": true,
       "settings": {
         "heading": "Multimedia collage",
         "heading_size": "h1",
@@ -350,51 +351,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "featured_collection": {
-      "type": "featured-collection",
-      "custom_css": [
-        ".color-scheme-1 {}"
-      ],
-      "settings": {
-        "title": "SERVICES",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "frontpage",
-        "products_to_show": 8,
-        "columns_desktop": 2,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-1",
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": true,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 44,
-        "padding_bottom": 36
-      }
-    },
-    "video_ibJEBB": {
-      "type": "video",
-      "settings": {
-        "heading": "Video",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -407,8 +363,6 @@
     "custom_liquid_VeQ4V3",
     "collage_XEhfqA",
     "collage_6JKCta",
-    "collage_agH7Ye",
-    "featured_collection",
-    "video_ibJEBB"
+    "collage_agH7Ye"
   ]
 }
