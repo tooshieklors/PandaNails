@@ -133,8 +133,8 @@
         "button_BUtqik": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Our Nails",
+            "button_link": "shopify:\/\/products\/custom-press-on-nails",
             "button_style_secondary": false
           }
         }
