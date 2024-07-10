@@ -126,7 +126,7 @@
         "text_pGw4yt": {
           "type": "text",
           "settings": {
-            "text": "<p><em><strong>Save time<\/strong><\/em> without sacrificing style with our convenient press-on nails. Enjoy a satisfying manicure <em><strong>in minutes<\/strong><\/em>!<\/p>",
+            "text": "<p><em><strong>Save time<\/strong><\/em> without sacrificing style with our convenient press-on nails. <\/p><p>Enjoy a satisfying manicure <em><strong>in minutes<\/strong><\/em>!<\/p>",
             "text_style": "body"
           }
         },
