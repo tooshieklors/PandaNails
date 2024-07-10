@@ -67,7 +67,7 @@
         "text_zCyciQ": {
           "type": "text",
           "settings": {
-            "text": "<p>Research indicates that manicures can reduce stress levels, leaving you feeling happy and satisfied. <\/p><p><em><strong>Immerse<\/strong><\/em> <em><strong>yourself<\/strong><\/em> in the luxurious experience of a manicure, where stress melts away and happiness takes its place.<\/p><p><\/p><p><\/p>",
+            "text": "<p><em><strong>Immerse<\/strong><\/em> <em><strong>yourself<\/strong><\/em> in the luxurious experience of a manicure, where stress melts away and serenity takes its place.<\/p><p>Located in Cedar Park, Texas<em><strong>,<\/strong><\/em> we are here to make that happen.<\/p><p><\/p><p><\/p>",
             "text_style": "body"
           }
         },
@@ -126,7 +126,7 @@
         "text_pGw4yt": {
           "type": "text",
           "settings": {
-            "text": "<p>Save time without sacrificing style with our convenient <em><strong>press-on nails<\/strong><\/em>. Enjoy a flawless manicure in minutes!<\/p>",
+            "text": "<p><em><strong>Save time<\/strong><\/em> without sacrificing style with our convenient press-on nails. Enjoy a satisfying manicure <em><strong>in minutes<\/strong><\/em>!<\/p>",
             "text_style": "body"
           }
         },
@@ -178,14 +178,14 @@
         "heading_p6MTCq": {
           "type": "heading",
           "settings": {
-            "heading": "Don't have time for a manicure?",
+            "heading": "Don't know how to put on press-on nails?",
             "heading_size": "h1"
           }
         },
         "text_A4it6p": {
           "type": "text",
           "settings": {
-            "text": "Save time without sacrificing style with our convenient <em><strong>press-on nails<\/strong><\/em>. Enjoy a flawless manicure in minutes!",
+            "text": "Learn how to put on press-on nails here. It's as simple as 1 2 3.",
             "text_style": "body"
           }
         },
