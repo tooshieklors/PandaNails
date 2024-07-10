@@ -110,18 +110,18 @@
         "heading_p6MTCq": {
           "type": "heading",
           "settings": {
-            "heading": "",
+            "heading": "Don't have time for a manicure? Check out our press-on nails.",
             "heading_size": "h1"
           }
         },
         "text_A4it6p": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Save time without sacrificing style with our convenient press on nails. Enjoy a flawless manicure in minutes!",
             "text_style": "body"
           }
         },
-        "buttons_amJMJi": {
+        "buttons_e9UkEc": {
           "type": "buttons",
           "settings": {
             "button_label_1": "Button label",
@@ -136,11 +136,11 @@
       "block_order": [
         "heading_p6MTCq",
         "text_A4it6p",
-        "buttons_amJMJi"
+        "buttons_e9UkEc"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Copy_of_panda_nails_4895214b-ab5a-4d98-97c5-641ef829d12e.gif",
-        "image_overlay_opacity": 0,
+        "image": "shopify:\/\/shop_images\/Copy_of_panda_nails-1.gif",
+        "image_overlay_opacity": 70,
         "image_height": "large",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
