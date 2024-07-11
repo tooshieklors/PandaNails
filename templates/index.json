@@ -148,7 +148,7 @@
         "@media (min-width: 1025px) {.grid {height: 70vh; }}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Copy_of_panda_nails-2.gif",
+        "image": "shopify:\/\/shop_images\/Copy_of_panda_nails-3.gif",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -210,7 +210,7 @@
         ".banner {height: 100vh;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Copy_of_panda_nails-1.gif",
+        "image": "shopify:\/\/shop_images\/Copy_of_panda_nails-4.gif",
         "image_overlay_opacity": 70,
         "image_height": "large",
         "desktop_content_position": "middle-center",
