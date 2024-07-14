@@ -207,7 +207,8 @@
         "buttons_e9UkEc"
       ],
       "custom_css": [
-        ".banner {height: 100vh;}"
+        ".banner {height: 100vh;}",
+        "@media (max-width: 500px) {.color-scheme-1 {color:white; } h2{color: white; } .button {background-color: grey }}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Copy_of_panda_nails-4.gif",
