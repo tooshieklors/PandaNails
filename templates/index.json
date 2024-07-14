@@ -192,8 +192,8 @@
         "buttons_e9UkEc": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Our Nails",
-            "button_link_1": "",
+            "button_label_1": "Our Content",
+            "button_link_1": "shopify:\/\/blogs\/news",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -208,7 +208,7 @@
       ],
       "custom_css": [
         ".banner {height: 100vh;}",
-        "@media (max-width: 500px) {.color-scheme-1 {color:white; } h2{color: white; } .button {background-color: grey }}"
+        "@media (max-width: 500px) {.color-scheme-1 {color: white; } h2 {color: white; } .button {background-color: grey; }}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Copy_of_panda_nails-4.gif",
