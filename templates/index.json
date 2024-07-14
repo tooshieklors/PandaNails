@@ -134,7 +134,7 @@
           "type": "button",
           "settings": {
             "button_label": "Our Nails",
-            "button_link": "shopify:\/\/products\/custom-press-on-nails",
+            "button_link": "shopify:\/\/collections\/products",
             "button_style_secondary": false
           }
         }
