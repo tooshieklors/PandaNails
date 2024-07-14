@@ -22,6 +22,14 @@
           "settings": {
           }
         },
+        "inventory_GrjMFi": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "body",
+            "inventory_threshold": 0,
+            "show_inventory_quantity": true
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -56,26 +64,18 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "inventory_GrjMFi": {
-          "type": "inventory",
-          "settings": {
-            "text_style": "body",
-            "inventory_threshold": 0,
-            "show_inventory_quantity": true
-          }
         }
       },
       "block_order": [
         "title",
         "price_LahULU",
+        "inventory_GrjMFi",
         "description",
         "live_product_options_app_block_V3F78N",
         "live_product_options_app_block_K3QnGm",
         "quantity_selector_VhhRVG",
         "buy_buttons_P6CyVe",
-        "share",
-        "inventory_GrjMFi"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
