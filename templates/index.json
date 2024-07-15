@@ -37,6 +37,7 @@
         "heading",
         "button"
       ],
+      "disabled": true,
       "custom_css": [
         ".banner {height: 110vh; top: -100px;}"
       ],
