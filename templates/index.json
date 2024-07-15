@@ -55,6 +55,15 @@
         "show_text_below": false
       }
     },
+    "custom_liquid_VAPBHJ": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "image_with_text_6TckrE": {
       "type": "image-with-text",
       "blocks": {
@@ -357,6 +366,7 @@
   },
   "order": [
     "image_banner",
+    "custom_liquid_VAPBHJ",
     "image_with_text_6TckrE",
     "custom_liquid_eX7fkB",
     "image_with_text_q6dJ48",
