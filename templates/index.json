@@ -222,7 +222,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Copy_of_panda_nails-4.gif",
-        "image_overlay_opacity": 70,
+        "image_overlay_opacity": 30,
         "image_height": "large",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
