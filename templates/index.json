@@ -25,7 +25,7 @@
           "disabled": true,
           "settings": {
             "button_label_1": "Browse Services",
-            "button_link_1": "shopify:\/\/collections\/frontpage",
+            "button_link_1": "shopify:\/\/collections\/services",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -85,7 +85,7 @@
           "type": "button",
           "settings": {
             "button_label": "Our Services",
-            "button_link": "shopify:\/\/collections\/frontpage",
+            "button_link": "shopify:\/\/collections\/services",
             "button_style_secondary": false
           }
         }
