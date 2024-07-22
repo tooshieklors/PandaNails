@@ -77,7 +77,7 @@
         "text_zCyciQ": {
           "type": "text",
           "settings": {
-            "text": "<p><em><strong>Immerse<\/strong><\/em> <em><strong>yourself<\/strong><\/em> in the luxurious experience of a manicure, where stress melts away and serenity takes its place.<\/p><p>Located in <strong>Cedar Park, Texas<\/strong><em><strong>,<\/strong><\/em> we are here to make that happen.<\/p><p><\/p><p><\/p>",
+            "text": "<p><em><strong>Immerse<\/strong><\/em> <em><strong>yourself<\/strong><\/em> in the luxurious experience of a manicure, where stress melts away and serenity takes its place.<\/p><p>Located in <a href=\"\/policies\/contact-information\" target=\"_blank\" title=\"Contact Information\"><strong>Cedar Park<\/strong>,<strong> Texas<\/strong><\/a>, we are here to make that happen.<\/p><p><\/p><p><\/p>",
             "text_style": "body"
           }
         },
