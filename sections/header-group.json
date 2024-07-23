@@ -16,8 +16,9 @@
       "blocks": {
         "announcement_Qc6RmX": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
-            "text": "PURCHASE A SERVICE, GET A $20 GIFT CARD",
+            "text": "PURCHASE A MANI, GET A $20 GIFT CARD",
             "link": "shopify:\/\/collections\/services"
           }
         }
