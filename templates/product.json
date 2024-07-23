@@ -24,6 +24,7 @@
         },
         "inventory_GrjMFi": {
           "type": "inventory",
+          "disabled": true,
           "settings": {
             "text_style": "body",
             "inventory_threshold": 0,
