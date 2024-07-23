@@ -123,6 +123,56 @@
         "padding_bottom": 52
       }
     },
+    "image_with_text_TMhyz7": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_L93Gmb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Don't have time for a manicure? Get our press-on nails.",
+            "heading_size": "h1"
+          }
+        },
+        "text_nKtTVB": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Save time<\/strong> without sacrificing style with our convenient, 100% hand-painted press-on nails. <\/p><p>Get those nails looking fab in no time!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_PctymM": {
+          "type": "button",
+          "settings": {
+            "button_label": "Our Nails",
+            "button_link": "shopify:\/\/collections\/press-on-nails",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_L93Gmb",
+        "text_nKtTVB",
+        "button_PctymM"
+      ],
+      "custom_css": [
+        "@media (min-width: 1025px) {.grid {display: none; }}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pon-creamy-surpise-a.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_q6dJ48": {
       "type": "image-with-text",
       "blocks": {
@@ -156,10 +206,10 @@
       ],
       "custom_css": [
         "@media (min-width: 1025px) {.grid {height: 70vh; }}",
-        "@media (max-width: 500px) {.grid {}}"
+        "@media (max-width: 500px) {.grid {display: none; height: 0vh; }}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pon-creamy-surprise-b-vertical.jpg",
+        "image": "shopify:\/\/shop_images\/pon-creamy-surpise-a-vertical.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -391,6 +441,7 @@
     "custom_liquid_VAPBHJ",
     "image_with_text_6TckrE",
     "custom_liquid_eX7fkB",
+    "image_with_text_TMhyz7",
     "image_with_text_q6dJ48",
     "custom_liquid_tEdcTH",
     "image_banner_t77ykj",
