@@ -17,15 +17,14 @@
         "announcement_Qc6RmX": {
           "type": "announcement",
           "settings": {
-            "text": "10% off with code JULY",
-            "link": ""
+            "text": "PURCHASE A SERVICE, GET A $20 GIFT CARD",
+            "link": "shopify:\/\/collections\/services"
           }
         }
       },
       "block_order": [
         "announcement_Qc6RmX"
       ],
-      "disabled": true,
       "custom_css": [
         "div {background-color: #d3e5d1;}"
       ],
