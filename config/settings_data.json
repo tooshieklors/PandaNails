@@ -187,9 +187,32 @@
           "buttonWidth": 100
         }
       },
+      "11793083337665231478": {
+        "type": "shopify:\/\/apps\/meety\/blocks\/meety-button-floating\/47f38863-0648-44e3-873d-c84301243dcb",
+        "disabled": true,
+        "settings": {
+          "product": "",
+          "text": "Schedule your time",
+          "text_color": "#fffffd",
+          "background_color": "#000001",
+          "width": "40px",
+          "height": "fit-content",
+          "border_width": 0,
+          "border_radius": 10,
+          "border_color": "#000001",
+          "font_family": "poppins_n4",
+          "font_size": 14
+        }
+      },
+      "3886181796285292942": {
+        "type": "shopify:\/\/apps\/cowlendar-booking\/blocks\/app-embed\/6d8b8f6a-9b3c-42b8-b2e6-a758c38d45bf",
+        "disabled": false,
+        "settings": {
+        }
+      },
       "17608008949125329497": {
         "type": "shopify:\/\/apps\/meety\/blocks\/bookings\/47f38863-0648-44e3-873d-c84301243dcb",
-        "disabled": false,
+        "disabled": true,
         "settings": {
           "horizontal_alignment": "center",
           "width": "100%",
@@ -213,23 +236,6 @@
           "subs_book_background_color": "#000001",
           "subs_book_border_color": "#000001",
           "subs_book_border_width": 0
-        }
-      },
-      "11793083337665231478": {
-        "type": "shopify:\/\/apps\/meety\/blocks\/meety-button-floating\/47f38863-0648-44e3-873d-c84301243dcb",
-        "disabled": true,
-        "settings": {
-          "product": "",
-          "text": "Schedule your time",
-          "text_color": "#fffffd",
-          "background_color": "#000001",
-          "width": "40px",
-          "height": "fit-content",
-          "border_width": 0,
-          "border_radius": 10,
-          "border_color": "#000001",
-          "font_family": "poppins_n4",
-          "font_size": 14
         }
       }
     },
