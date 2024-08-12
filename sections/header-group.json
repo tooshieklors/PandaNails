@@ -27,7 +27,8 @@
       ],
       "custom_css": [
         "div {background-color: #d3e5d1; height: 55px;}",
-        "span {font-size: 20px;}"
+        "@media (min-width: 1025px) {span {font-size: 20px; }}",
+        "@media (max-width: 500px) {span {font-size: 15px; }}"
       ],
       "settings": {
         "color_scheme": "scheme-1",
