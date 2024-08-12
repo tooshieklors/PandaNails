@@ -16,9 +16,8 @@
       "blocks": {
         "announcement_Qc6RmX": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "PURCHASE A MANI, GET A $20 GIFT CARD",
+            "text": "August Promo Code: 15OFF",
             "link": "shopify:\/\/collections\/services"
           }
         }
