@@ -189,12 +189,6 @@
           "font_size": 14
         }
       },
-      "3720565183479497137": {
-        "type": "shopify:\/\/apps\/globo-product-option\/blocks\/app-embed-block\/fdc9fad5-1a0f-4bd4-9c8a-1af6a6eef6b8",
-        "disabled": true,
-        "settings": {
-        }
-      },
       "17608008949125329497": {
         "type": "shopify:\/\/apps\/meety\/blocks\/bookings\/47f38863-0648-44e3-873d-c84301243dcb",
         "disabled": false,
@@ -225,6 +219,12 @@
       },
       "1787840288555608609": {
         "type": "shopify:\/\/apps\/live-product-options\/blocks\/app-embed\/88bfdf40-5e27-4962-a966-70c8d1e87757",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "3720565183479497137": {
+        "type": "shopify:\/\/apps\/globo-product-option\/blocks\/app-embed-block\/fdc9fad5-1a0f-4bd4-9c8a-1af6a6eef6b8",
         "disabled": false,
         "settings": {
         }
