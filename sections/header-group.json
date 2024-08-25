@@ -25,6 +25,7 @@
       "block_order": [
         "announcement_Qc6RmX"
       ],
+      "disabled": true,
       "custom_css": [
         "div {background-color: #d3e5d1; height: 55px;}",
         "@media (min-width: 1025px) {span {font-size: 20px; }}",
