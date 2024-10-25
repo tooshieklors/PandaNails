@@ -1,17 +1,17 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/panda_nails_158e7236-ccbc-4239-84fe-0d498c075b5d.png",
+    "logo": "shopify://shop_images/panda_nails_158e7236-ccbc-4239-84fe-0d498c075b5d.png",
     "logo_width": 300,
-    "favicon": "shopify:\/\/shop_images\/panda-nails-favicon.png",
+    "favicon": "shopify://shop_images/panda-nails-favicon.png",
     "type_header_font": "abril_fatface_n4",
     "heading_scale": 100,
     "type_body_font": "americana_n4",
@@ -108,7 +108,7 @@
     "sale_badge_color_scheme": "scheme-4",
     "sold_out_badge_color_scheme": "scheme-3",
     "brand_headline": "",
-    "brand_description": "<p><\/p>",
+    "brand_description": "<p></p>",
     "brand_image_width": 100,
     "social_facebook_link": "",
     "social_instagram_link": "",
@@ -147,19 +147,19 @@
     ],
     "blocks": {
       "1232542678405107163": {
-        "type": "shopify:\/\/apps\/instafeed\/blocks\/head-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+        "type": "shopify://apps/instafeed/blocks/head-block/c447db20-095d-4a10-9725-b5977662c9d5",
         "disabled": false,
         "settings": {
         }
       },
       "1710008633607995074": {
-        "type": "shopify:\/\/apps\/tydal-reviews\/blocks\/app-embed\/5f785e18-66cc-4519-8181-565d1cce1705",
+        "type": "shopify://apps/tydal-reviews/blocks/app-embed/5f785e18-66cc-4519-8181-565d1cce1705",
         "disabled": false,
         "settings": {
         }
       },
       "15683396631634586217": {
-        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
         "disabled": false,
         "settings": {
           "button_color": "#000000",
@@ -173,7 +173,7 @@
         }
       },
       "11793083337665231478": {
-        "type": "shopify:\/\/apps\/meety\/blocks\/meety-button-floating\/47f38863-0648-44e3-873d-c84301243dcb",
+        "type": "shopify://apps/meety/blocks/meety-button-floating/47f38863-0648-44e3-873d-c84301243dcb",
         "disabled": true,
         "settings": {
           "product": "",
@@ -189,10 +189,23 @@
           "font_size": 14
         }
       },
-      "17608008949125329497": {
-        "type": "shopify:\/\/apps\/meety\/blocks\/bookings\/47f38863-0648-44e3-873d-c84301243dcb",
+      "1787840288555608609": {
+        "type": "shopify://apps/live-product-options/blocks/app-embed/88bfdf40-5e27-4962-a966-70c8d1e87757",
         "disabled": false,
         "settings": {
+        }
+      },
+      "3720565183479497137": {
+        "type": "shopify://apps/globo-product-option/blocks/app-embed-block/fdc9fad5-1a0f-4bd4-9c8a-1af6a6eef6b8",
+        "disabled": true,
+        "settings": {
+        }
+      },
+      "17608008949125329497": {
+        "type": "shopify://apps/meety/blocks/bookings/47f38863-0648-44e3-873d-c84301243dcb",
+        "disabled": true,
+        "settings": {
+          "use_add_to_cart_style": false,
           "horizontal_alignment": "center",
           "width": "100%",
           "height": "48px",
@@ -215,18 +228,6 @@
           "subs_book_background_color": "#000001",
           "subs_book_border_color": "#000001",
           "subs_book_border_width": 0
-        }
-      },
-      "1787840288555608609": {
-        "type": "shopify:\/\/apps\/live-product-options\/blocks\/app-embed\/88bfdf40-5e27-4962-a966-70c8d1e87757",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "3720565183479497137": {
-        "type": "shopify:\/\/apps\/globo-product-option\/blocks\/app-embed-block\/fdc9fad5-1a0f-4bd4-9c8a-1af6a6eef6b8",
-        "disabled": true,
-        "settings": {
         }
       }
     },
@@ -499,7 +500,7 @@
       "sale_badge_color_scheme": "scheme-4",
       "sold_out_badge_color_scheme": "scheme-3",
       "brand_headline": "",
-      "brand_description": "<p><\/p>",
+      "brand_description": "<p></p>",
       "brand_image_width": 100,
       "social_twitter_link": "",
       "social_facebook_link": "",
